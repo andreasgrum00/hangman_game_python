@@ -1,6 +1,7 @@
 <h1>Hangman Game - Python</h1>
 <hr>
-![image](https://user-images.githubusercontent.com/55033182/215301710-0552fd68-d1e6-44c9-8bbc-9334325f6a58.png)
+
+![Hangman](https://user-images.githubusercontent.com/55033182/215302036-a996f0a7-4c8f-457d-ae45-fb57dbc64049.png)
 
 <br>
 
