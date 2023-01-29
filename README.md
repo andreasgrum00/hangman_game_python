@@ -6,4 +6,4 @@
 <br>
 
 <p>Just made this hangman game to put it on my resume, so companies can call me to work at their young apprentice program</p>
-<p>You can change the words by writing the chosen words in the words.py Python file.>
+<p>You can change the words by writing the chosen words in the words.py Python file.</p>
